@@ -1,16 +1,16 @@
-## Hi there 👋
+## olá e boas vindas a o meu perfil 😎
 
-<!--
-**diogoaldrovandi/diogoaldrovandi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Diogo aldrovandi
 
-Here are some ideas to get you started:
+- Pretendo ser um programador de jogos 🎮
+- Atualmente estudando o game maker
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  Se você quiser me auxiliar de alguma forma você pode entrar em contato pelo meu email 🤙
+
+  aldrovandidiogo@gmail.com
+
+
+![](https://media.tenor.com/PS3stBmyo3kAAAAi/basado.gif)
+  
+
+
