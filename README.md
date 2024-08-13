@@ -4,6 +4,7 @@ Meu nome é Diogo aldrovandi
 
 - Pretendo ser um programador de jogos 🎮
 - Atualmente estudando o game maker
+- utilizando o Alura como metodo de estudo
 
   Se você quiser me auxiliar de alguma forma você pode entrar em contato pelo meu email 🤙
 
